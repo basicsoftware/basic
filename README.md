@@ -1,2 +1,2 @@
 # basic
-ERP Software
+Software solution
